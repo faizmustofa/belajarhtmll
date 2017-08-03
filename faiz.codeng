@@ -1,18 +1,27 @@
 <!DOCTYPE html>
 <html>
 <head>
+<h1>Bismillah Belajar Codeng</h1>
+<hr>
+<a href="http://smkitihsanulfikri.sch.co.id"><img src="smkyeaah.png"></a>		
 	<title>cah.codeng</title>
 </head>
 <body>
-<h1>Bismillah Belajar Codeng</h1>
+
+
+<img src="3.png" width="1000" height="150">
+<p>Keberhasilan berasal dari usaha</p>
+<hr>
 
 <p>Assalamualaikum wr wb 
 hari ini kami akan menjeaskan beberapa tentang dasar html.</p>
 
-<p>Di paragraf kedua ini kita akan mencoba untuk memperatekan tentang html yang kita pahami tadi. Sekian dari kami terima kassih atas perhaitan nya jazakahllah...</p>
+<p title="judul eritaw">Di paragraf kedua ini kita akan mencoba untuk memperatekan tentang html yang kita pahami tadi. Sekian dari kami terima kassih atas perhaitan nya jazakahllah...</p>
 
-<img src="smkyeaah.png" alt="http://www.smkitihsanulfikri.sch.id/" width="120" height="124">
+
 
 <a href="http://syurbanhitam.blogspot.co.id/">Profi Penulis</a>
+
+
 </body>
 </html>
